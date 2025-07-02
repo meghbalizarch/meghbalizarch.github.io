@@ -23,18 +23,18 @@ repository               : "meghbalizarch/meghbalizarch.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Maryam Eghbalizarch"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor, Dep of Industrial and Systems Engineering"
+  location         : "Marietta, GA"
+  employer         : "Kennesaw State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "meghbali@kennesaw.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=wAv9ZhYAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
