@@ -4,5 +4,4 @@ collection: talks
 type: "Invited Conference Presentations"
 venue: "SMDM 47th Annual Meeting 2025"
 location: "Ann Arbor, MI, USA"
-permalink: " "
 ---
