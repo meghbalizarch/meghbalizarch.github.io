@@ -26,8 +26,9 @@ author:
   name             : "Maryam Eghbalizarch"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor, Dep of Industrial and Systems Engineering"
-  location         : "Marietta, GA"
+  
   employer         : "Kennesaw State University"
+  location         : "Marietta, GA"
   uri              : # URL
   email            : "meghbali@kennesaw.edu" 
 
