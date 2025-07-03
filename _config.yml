@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Maryam Eghbalizarch ![](../images/KSU.png)"
+title                    : Maryam Eghbalizarch ![](../images/KSU.png)
 title_separator          : "-"
 name                     : &name "Maryam Eghbalizarch"
 description              : &description "personal description"
