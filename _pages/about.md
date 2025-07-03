@@ -15,4 +15,7 @@ Research
 ======
 My research interests include sequential decision-making under uncertainty (using Markov chains, Markov Decision Process, Partially Observable Markov Decision Process), multi-objective optimization, simulation and data analytics, with applications in - Healthcare and medical decision-making (specially in cancer care and diabetes management).
 
+Education
+======
+
 
