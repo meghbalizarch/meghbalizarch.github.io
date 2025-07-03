@@ -6,6 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+.highlight-box {
+  border: 2px solid #f44336; /* red border */
+  background-color: #fff8e1; /* light yellow background */
+  border-radius: 8px;
+  padding: 16px;
+  margin: 20px 0;
+  font-size: 16px;
+  line-height: 1.6;
+}
+.highlight-box p {
+  margin: 0;
+}
+</style>
 
 I am currently an Assistant Professor in the [Department of Industrial and Systems Engineering](https://www.kennesaw.edu/spceet/academics/industrial-systems-engineering/index.php) at [Kennesaw State University (KSU)](https://www.kennesaw.edu/). 
 
