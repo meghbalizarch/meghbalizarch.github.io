@@ -13,7 +13,7 @@ Prior to moving to the United States, I served an Assistant Professor in the Ind
 
 Research
 ======
-My Research interests include sequential decision-making under uncertainty (using Markov chains, Markov Decision Process, Partially Observable Markov Decision Process), multi-objective optimization, simulation and data analytics, with applications in
+My research interests include sequential decision-making under uncertainty (using Markov chains, Markov Decision Process, Partially Observable Markov Decision Process), multi-objective optimization, simulation and data analytics, with applications in
 - Healthcare and medical decision-making (specially in cancer care and diabetes management) 
 - Logistics and supply chain.
 
