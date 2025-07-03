@@ -12,4 +12,4 @@ I am currently an Assistant Professor in the [Department of Industrial and Syste
 
 ## Research
 
-My research interests include sequential decision-making under uncertainty, multi-objective optimization, simulation, and data analytics, with applications in healthcare—especially cancer care and diabetes management.
+My research interests include sequential decision-making under uncertainty, multi-objective optimization, simulation, and data analytics, with applications in healthcare — especially cancer care and diabetes management.
