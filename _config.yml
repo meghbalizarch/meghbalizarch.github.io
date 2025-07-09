@@ -269,10 +269,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _positions
   - scope:
       path: ""
-      type: portfolio
+      type: positions
     values:
       layout: single
       author_profile: true
