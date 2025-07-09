@@ -27,8 +27,8 @@ main:
   #- title: "CV"
    # url: /cv/
     
-  #- title: "Positions"
-   # url: /Positions/
+  - title: "Positions"
+    url: /Positions/
     
  # - title: "Guide"
   #  url: /markdown/
