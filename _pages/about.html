@@ -216,20 +216,24 @@ author_profile: true
   <div class="timeline-content">
     Our paper <em>"Natural History Models for Lung Cancer: A Scoping Review"</em> is now published in the <strong>Lung Cancer</strong> journal!
   </div>
-</div> -->
+</div>
 
-  <style>
+
+ -->
+
+<style>
   .timeline {
     position: relative;
     max-width: 800px;
     margin: 50px auto;
     font-family: Arial, sans-serif;
+    padding-left: 100px; /* added padding so timeline doesn’t stick to left edge */
   }
 
   .timeline::before {
     content: '';
     position: absolute;
-    left: 15px;
+    left: 90px;   /* moved vertical line from 15px to 90px */
     top: 0;
     bottom: 0;
     width: 2px;
@@ -238,14 +242,14 @@ author_profile: true
 
   .timeline-entry {
     position: relative;
-    margin-left: 100px;
+    margin-left: 130px; /* increased from 60px to 130px to shift content right */
     margin-bottom: 30px;
   }
 
   .timeline-entry::before {
     content: '';
     position: absolute;
-    left: -25px;
+    left: -40px;  /* adjusted from -25px to -40px to keep the dot on the vertical line */
     top: 5px;
     width: 10px;
     height: 10px;
@@ -288,12 +292,6 @@ author_profile: true
       </span>
     </div>
   </div>
-
-  <div class="timeline-entry">
-    <div class="timeline-date">August 2025</div>
-    <div class="timeline-content">
-      I will be joining the <a href="https://www.kennesaw.edu/spceet/academics/industrial-systems-engineering/index.php" style="color:#5dade2; text-decoration:none;">Department of Industrial and Systems Engineering</a> at 
-      <a href="https://w
 
    
   
