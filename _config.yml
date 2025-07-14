@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : #"Assistant Professor, Department of Industrial and Systems Engineering"
   
-  employer         : "Kennesaw State University"
+  employer         : #"Kennesaw State University"
   location         : "Marietta, GA, USA"
   uri              : # URL
   email            : "meghbali@kennesaw.edu" 
