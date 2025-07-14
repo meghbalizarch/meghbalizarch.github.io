@@ -22,7 +22,7 @@ repository               : "meghbalizarch/meghbalizarch.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"   
+  avatar           : #"profile.png"   
   name             : "Maryam Eghbalizarch"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor, Department of Industrial and Systems Engineering"
