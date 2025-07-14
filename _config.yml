@@ -23,9 +23,9 @@ repository               : "meghbalizarch/meghbalizarch.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"   
-  name             : "Maryam Eghbalizarch"
+  name             : #"Maryam Eghbalizarch"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor, Department of Industrial and Systems Engineering"
+  bio              : #"Assistant Professor, Department of Industrial and Systems Engineering"
   
   employer         : "Kennesaw State University"
   location         : "Marietta, GA, USA"
