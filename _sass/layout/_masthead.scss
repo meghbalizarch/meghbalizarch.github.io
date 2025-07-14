@@ -66,3 +66,8 @@
     font-weight: 1000;
   }
 }
+
+.masthead__menu-item:first-child {
+  font-size: 3rem; // or 22px, adjust as needed
+  font-weight: 1000;  // optional: make it bold too
+}
