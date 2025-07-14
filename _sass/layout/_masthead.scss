@@ -62,12 +62,12 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 3em;
-    font-weight: 1000;
+    padding-right: 1.5em;
+    font-weight: 800;
   }
 }
 
 .masthead__menu-item:first-child {
   font-size: 1.5em; // or 22px, adjust as needed
-  font-weight: 1000;  // optional: make it bold too
+  font-weight: 800;  // optional: make it bold too
 }
